@@ -1,0 +1,154 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Projects</title>
+
+        <!-- Simple modern font -->
+        <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap" rel="stylesheet">
+
+        <style>
+/* BASIC RESET */
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    background: linear-gradient(to right, #eef2f3, #dfe9f3);
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: #222;
+    letter-spacing: 2px;
+}
+
+/* BUTTON GRID */
+.button-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    padding: 20px;
+}
+
+@media (min-width: 768px) {
+    .button-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* BUTTON STYLE */
+.btn {
+    width: 100%;
+    padding: 18px;
+    font-size: 14px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+/* HOVER EFFECTS */
+.btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+/* SIMPLE FLOATING ANIMATION */
+.btn {
+    animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+    100% { transform: translateY(0); }
+}
+
+/* COLORS */
+.red { background-color: #dc3545; }
+.green { background-color: #28a745; }
+.orange { background-color: #fd7e14; }
+.purple { background-color: #6f42c1; }
+
+/* HOVER COLORS */
+.red:hover { background-color: #c82333; }
+.green:hover { background-color: #218838; }
+.orange:hover { background-color: #e96b10; }
+.purple:hover { background-color: #5a32a3; }
+
+/* SIMPLE TEXT GLOW ON HOVER */
+.btn:hover {
+    color: #fff;
+    text-shadow: 0 0 8px rgba(255,255,255,0.7);
+}
+
+</style>
+    </head>
+
+    <body>
+
+    <h1>MY PROJECTS</h1>
+
+<div class="button-container">
+
+    <a href="index.html"><button class="btn">PROJECT 01</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 02</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 03</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 04</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 05</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 06</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 07</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 08</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 09</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 10</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 11</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 12</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 13</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 14</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 15</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 16</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 17</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 18</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 19</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 20</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 21</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 22</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 23</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 24</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 25</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 26</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 27</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 28</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 29</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 30</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 31</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 32</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 33</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 34</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 35</button></a>
+
+    <a href="index.html"><button class="btn">PROJECT 36</button></a>
+    <a href="index.html"><button class="btn red">PROJECT 37</button></a>
+    <a href="index.html"><button class="btn green">PROJECT 38</button></a>
+    <a href="index.html"><button class="btn orange">PROJECT 39</button></a>
+    <a href="index.html"><button class="btn purple">PROJECT 40</button></a>
+
+</div>
+
+
+    </body>
+    </html>
