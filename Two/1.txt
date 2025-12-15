@@ -1,0 +1,7 @@
+Question:
+Is question me student ko ek simple web page banana hai.
+Page me do cheezein dikhani hain:
+1) Ek heading (h1) jisme "Hello World" likha ho.
+2) Ek paragraph jisme "This is my first website" likha ho.
+
+Ye beginners ko sikhata hai ki HTML me heading aur paragraph kaise use karte hain.

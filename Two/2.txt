@@ -1,0 +1,8 @@
+Question:
+Isme student ko ek basic webpage banana hai jisme:
+- Ek h1 heading me greeting likhna hai.
+- Ek paragraph me apne first website ke baare me line likhni hai.
+
+Is example ka purpose hai students ko basic tags use karna sikhana:
+<h1> for heading
+<p> for paragraph
