@@ -1,0 +1,5 @@
+Question:
+Student ko HTML me h1 se h6 tak saari headings ka use dikhana hai.
+Har heading ka text different ho sakta hai, bas tag same order me use hone chahiye.
+
+Is example me hum "HTML Notes" ka heading structure dikha rahe hain.
