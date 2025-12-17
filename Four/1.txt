@@ -1,0 +1,9 @@
+Question:
+Is question me student ko HTML me paragraph tag <p> use karke
+ek paragraph likhna hai.
+
+Aur beech me line break dene ke liye <br> tag use karna hai.
+
+<p> = Paragraph
+<br> = Line Break (nayi line)
+Ye example beginners ko text formatting sikhata hai.
