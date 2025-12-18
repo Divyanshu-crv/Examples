@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) <big> tag use karke text bada dikhao
+2) <small> tag use karke text chhota dikhao
+3) <tt> tag use karke text typewriter style me dikhao
+4) Text Hinglish me ho
+
+Solution:
+- <big> = Text ko thoda bada karta hai
+- <small> = Text ko thoda chhota karta hai
+- <tt> = Typewriter style text dikhata hai
+- Ye tags beginners ko size aur style ka simple example sikhate hain

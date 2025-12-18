@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) <big>, <small> aur <tt> tags ka use ho
+2) Text Hinglish me simple aur beginners friendly ho
+
+Solution:
+- <big> = Text bada dikhata hai
+- <small> = Text chhota dikhata hai
+- <tt> = Typewriter style text dikhata hai
+- Practice ke liye alag-alag lines me use karo
