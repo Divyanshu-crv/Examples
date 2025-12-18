@@ -1,0 +1,16 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Text ko bold (<b>) karo
+2) Text ko italic (<i>) karo
+3) Text ko underline (<u>) karo
+4) Line break (<br>) use karo
+5) Text Hinglish me ho
+
+Solution:
+- <b> = Bold text
+- <i> = Italic text
+- <u> = Underline text
+- <br> = Nayi line start karne ke liye
+- Ye tags beginners ko basic text formatting sikhaate hain

@@ -1,0 +1,8 @@
+Question:
+Student ko HTML ke basic text formatting tags use karke example banana hai:
+<b>  = Bold
+<i>  = Italic
+<u>  = Underline
+
+Is example me 3 lines likhni hain, har line me ek formatting tag apply hoga.
+Text Hinglish me hona chahiye taki beginners ko relatable lage.
