@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) <pre> tag ka use ho
+2) Text ko same format me dikhao jaise typing me hai
+3) Text Hinglish me ho
+
+Solution:
+- <pre> = Preformatted text dikhata hai, spaces aur line breaks preserve karta hai
+- Beginners ko sikhaata hai ki text ko exact format me kaise dikhaye
+- Useful for code ya special alignment

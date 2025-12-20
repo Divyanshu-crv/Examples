@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) <pre> tag use ho
+2) Multiple lines aur spaces ko same format me dikhao
+3) Text Hinglish me ho, beginners friendly
+
+Solution:
+- <pre> tag se exact formatting show hoti hai
+- Space aur line break maintain hoti hai
+- Useful for code snippets ya aligned text
