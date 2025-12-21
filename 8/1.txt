@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) <sub> tag use karo (subscript text)
+2) <sup> tag use karo (superscript text)
+3) <s> tag use karo (strike-through text)
+4) Text Hinglish me ho, beginners friendly
+
+Solution:
+- <sub> = Text ko thoda niche dikhata hai (subscript)
+- <sup> = Text ko thoda upar dikhata hai (superscript)
+- <s>   = Text ko strike-through (line se cross) karta hai
+- Ye tags students ko text formatting aur special text effects sikhaate hain

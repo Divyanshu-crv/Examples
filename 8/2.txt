@@ -1,0 +1,13 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) <sub>, <sup>, <s> tags ka use ho
+2) Text Hinglish me ho
+3) Beginners ke liye simple aur easy to understand example ho
+
+Solution:
+- <sub> = Subscript text
+- <sup> = Superscript text
+- <s>   = Strike-through text
+- Practical example ke liye formulas aur crossed text dikhao
