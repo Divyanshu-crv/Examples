@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme baki ke 15 HTML special characters dikhao.
+Text Hinglish me ho, aur beginners friendly ho.
+Example: More Greek letters, symbols, arrows, punctuation, etc.
+
+Solution:
+- HTML special characters ka use page me symbols dikhane ke liye hota hai
+- Format: &name; ya &#code;
+- Students ko important 30 characters me se remaining 15 ka practical example milega

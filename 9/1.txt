@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme 15 HTML special characters dikhao.
+Characters ka use simple text me ho, aur text Hinglish me ho.
+Example: Greek letters, copyright, trademark, symbols, etc.
+
+Solution:
+- Special characters ko HTML me &name; ya &#code; ke format me likhte hain
+- Beginners ko sikhaata hai ki HTML me symbols kaise dikhaye
+- Ye useful hai formulas, math, copyright, aur special text ke liye
