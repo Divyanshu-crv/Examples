@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) Inline CSS use karke links ka color set karo
+2) Text Hinglish me ho
+3) Simple aur beginners friendly example ho
+
+Solution:
+- style="color:colorname;" = Direct <a> tag me color set karta hai
+- Ye easy way hai small projects me colors customize karne ka
+- Beginners ko inline styling ka practice milega

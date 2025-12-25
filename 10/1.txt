@@ -1,0 +1,16 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Normal link color set ho
+2) Visited link color alag ho
+3) Active link color alag ho (jab click karte hain)
+4) Inline CSS use ho
+5) Text Hinglish me ho
+
+Solution:
+- Inline CSS me style directly <a> tag ke andar likhte hain: style="color:colorname"
+- a:link = Normal link
+- a:visited = Visit ke baad ka color
+- a:active = Click karte waqt color
+- Beginners ko sikhaata hai ki inline styling kaise hoti hai
