@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Page ka background color set ho
+2) Text Hinglish me ho
+3) bgcolor attribute use karo
+
+Solution:
+- <body bgcolor="colorname"> = Page ka background color set karta hai
+- Simple aur beginners friendly example
+- Students ko sikhaata hai ki pura page ka color kaise change kare
