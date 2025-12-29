@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Text ka color change ho
+2) Inline CSS ya <font color=""> use ho
+3) Text Hinglish me ho
+
+Solution:
+- <font color="colorname">Text</font> = Old method, still beginners ke liye simple
+- Inline CSS: <p style="color:colorname;">Text</p> = Modern method
+- Students ko sikhaata hai ki text ka color kaise change kare

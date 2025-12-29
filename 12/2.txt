@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) Different text colors use ho
+2) Text Hinglish me ho
+3) Inline CSS ya <font color=""> method use karo
+
+Solution:
+- Inline CSS: style="color:colorname;"
+- Text ka color customize karna sikhaata hai
+- Simple aur beginners friendly example
