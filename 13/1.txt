@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Pura body ke liye margin set ho
+2) Inline CSS use ho
+3) Text Hinglish me ho
+
+Solution:
+- Inline CSS me body tag me style attribute ka use karke margin set karte hain
+- margin-top, margin-bottom, margin-left, margin-right = pura page ka spacing control karta hai
+- Students ko sikhaata hai ki body level inline margin kaise apply kare

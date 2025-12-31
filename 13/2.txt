@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Paragraph ke liye left, right, top, bottom margin set ho
+2) Inline CSS use ho
+3) Text Hinglish me ho
+
+Solution:
+- Inline CSS me style attribute ke andar margin properties likhi jaati hain
+- margin-left, margin-right, margin-top, margin-bottom = individual paragraphs ka spacing control karte hain
+- Students ko element level margin ka practice milega
