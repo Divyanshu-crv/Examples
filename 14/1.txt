@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Text ka direction Left to Right (LTR) ho
+2) Text Hinglish me ho
+3) dir="ltr" attribute use ho
+
+Solution:
+- dir="ltr" = Text ko left se right dikhata hai (default English ke liye)
+- Students ko sikhaata hai ki text direction kaise set kare

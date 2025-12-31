@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) Text ka direction Right to Left (RTL) ho
+2) Text Hinglish me ho
+3) dir="rtl" attribute use ho
+
+Solution:
+- dir="rtl" = Text ko right se left dikhata hai (useful Arabic, Urdu me)
+- Students ko sikhaata hai ki RTL text kaise implement kare
