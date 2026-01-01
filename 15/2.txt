@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) <a> tag me title attribute ho
+2) Mouse hover par tooltip dikhe
+3) Text Hinglish me ho
+4) Beginners friendly example ho
+
+Solution:
+- title="text" = Mouse hover karte hi tooltip dikhaata hai
+- Students ko sikhaata hai ki links par extra information kaise add kare

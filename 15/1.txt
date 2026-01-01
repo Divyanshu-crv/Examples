@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) <h1> tag me title attribute ho
+2) Mouse hover par tooltip dikhe
+3) Text Hinglish me ho
+4) Beginners friendly example ho
+
+Solution:
+- title attribute h1, p ya kisi bhi element me use ho sakta hai
+- Students ko sikhaata hai ki tooltip text kisi bhi element par dikha sakte hain
