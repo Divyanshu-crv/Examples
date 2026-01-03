@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question:
+Ek aur webpage banao jisme:
+1) Background image center me ho using inline CSS
+2) Image page ke size ke hisab se adjust ho
+3) Text Hinglish me ho
+
+Solution:
+- Inline CSS me style attribute ke andar background-position aur background-size likhte hain
+- Students ko sikhaata hai ki inline CSS se background images align aur resize kaise kare

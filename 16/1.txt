@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Page ka background image set ho using inline CSS
+2) Image repeat na ho
+3) Text Hinglish me ho
+
+Solution:
+- Inline CSS me style attribute ke andar background-image aur background-repeat likhte hain
+- Students ko sikhaata hai ki background image inline CSS ke saath kaise apply kare
