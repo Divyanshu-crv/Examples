@@ -1,0 +1,16 @@
+CyberRootVidyapeeth
+
+Question:
+Ek webpage banao jisme:
+1) Text ke liye alag-alag font properties use ho
+   - Color
+   - Size
+   - Font face/style
+2) Teen different examples ek hi file me ho
+3) Text Hinglish me ho
+
+Solution:
+- <font color="colorname"> = Text ka color set karta hai
+- <font size="number"> = Text ka size set karta hai (1-7)
+- <font face="fontname"> = Text ka font style change karta hai
+- Students ko sikhaata hai ki text ka appearance customize kaise kare

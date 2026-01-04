@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question 
+Ek webpage banao jisme:
+1) Text ka size aur font face change ho
+2) <font size=""> aur <font face=""> use ho
+3) Text Hinglish me ho
+
+Solution:
+- <font size="number">Text</font> = Text ka size set karta hai (1-7)
+- <font face="fontname">Text</font> = Text ka font style change karta hai
+- Students ko sikhaata hai ki text ka appearance customize kaise kare
