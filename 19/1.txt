@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question 19.1:
+Ek webpage banao jisme:
+1) Headings h1 se h6 center me ho
+2) <center> tag use ho
+3) Text Hinglish me ho
+
+Solution:
+- <center> tag headings ko center align karta hai
+- Students ko sikhaata hai ki headings ka alignment kaise change kare
