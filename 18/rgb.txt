@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question 18.1:
+Ek webpage banao jisme:
+1) Text ka color RGB value ke saath set ho
+2) Inline CSS use ho
+3) Text Hinglish me ho
+
+Solution:
+- color: rgb(R,G,B); = Text ka color RGB format me set karta hai
+- R,G,B values 0-255 me hoti hain
+- Students ko sikhaata hai ki RGB se exact color kaise choose kare

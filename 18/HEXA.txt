@@ -1,0 +1,12 @@
+CyberRootVidyapeeth
+
+Question 18.2:
+Ek webpage banao jisme:
+1) Text ka color Hexadecimal code ke saath set ho
+2) Inline CSS use ho
+3) Text Hinglish me ho
+
+Solution:
+- color: #RRGGBB; = Text ka color Hexa format me set karta hai
+- #FF0000 = Red, #0000FF = Blue etc.
+- Students ko sikhaata hai ki hex codes se exact color kaise choose kare
