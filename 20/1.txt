@@ -1,0 +1,15 @@
+CyberRootVidyapeeth
+
+Question 21.1:
+Ek webpage banao jisme:
+1) UL aur OL dono use ho
+2) List ko center align kare
+3) UL ke liye type attribute set ho (circle, square, disc)
+4) OL ke liye type attribute set ho (1, a, i)
+5) Text Hinglish me ho
+
+Solution:
+- <ul type="circle|square|disc"> = Bullet style set karta hai
+- <ol type="1|a|i"> = Numbering style set karta hai
+- <center> tag se list center me dikhegi
+- Students ko sikhaata hai ki lists ka appearance aur alignment kaise change kare

@@ -1,0 +1,15 @@
+CyberRootVidyapeeth
+
+Question 21.2:
+Ek aur webpage banao jisme:
+1) UL aur OL dono use ho
+2) Lists ko center align kare
+3) UL ke liye different type set ho
+4) OL ke liye different type set ho
+5) Text Hinglish me ho
+
+Solution:
+- <ul type="square"> = Bullet style square
+- <ol type="i"> = Numbering style lowercase Roman
+- <center> tag se lists center me dikhegi
+- Students ko sikhaata hai ki attributes se list ka appearance customize kaise kare
