@@ -1,0 +1,16 @@
+CyberRootVidyapeeth
+
+Question 22.1:
+Ek webpage banao jisme:
+1) Ek image dikhai de
+2) Attributes use ho: src, height, width, alt, title, border
+3) Text Hinglish me ho
+
+Solution:
+- <img src="image.jpg" height="200" width="300" alt="Image description" title="Hover text" border="2">
+- src = Image ka path
+- height / width = Image ka size
+- alt = Agar image load na ho to dikhega
+- title = Mouse hover par tooltip dikhega
+- border = Image ke around border
+- Students ko sikhaata hai ki images kaise add kare aur attributes use kare

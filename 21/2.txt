@@ -1,0 +1,11 @@
+CyberRootVidyapeeth
+
+Question 22.2:
+Ek aur webpage banao jisme:
+1) Image show ho
+2) Different height, width, alt, title aur border use ho
+3) Text Hinglish me ho
+
+Solution:
+- <img> tag me saare attributes use ho sakte hain
+- Students ko sikhaata hai ki image ka appearance aur info kaise control kare
