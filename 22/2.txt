@@ -1,0 +1,13 @@
+CyberRootVidyapeeth
+
+Question 22.2:
+Ek aur webpage banao jisme:
+1) <img> tag use ho
+2) border, hspace, vspace, align attributes use ho
+3) Image right side me aligned ho
+4) Text Hinglish me ho
+
+Solution:
+- align="right" image ko right side me le jaata hai
+- hspace aur vspace se image ke aas-paas proper space milta hai
+- Students ko real layout design ka basic idea milta hai

@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question 22.1:
+Ek webpage banao jisme:
+1) <img> tag use ho
+2) border, hspace, vspace, align attributes use ho
+3) Text Hinglish me ho
+
+Solution:
+- border = Image ke around border lagata hai
+- hspace = Image ke left aur right space deta hai
+- vspace = Image ke top aur bottom space deta hai
+- align = Image ko left, right ya center me set karta hai
+- Students ko image positioning aur spacing samajhne me help milti hai
