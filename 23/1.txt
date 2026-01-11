@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question 23.1:
+Ek webpage banao jisme:
+1) <a> (anchor) tag use ho
+2) href, target, title attributes use ho
+3) Text Hinglish me ho
+
+Solution:
+- <a> tag = Hyperlink banane ke liye use hota hai
+- href = Link ka address deta hai
+- target = Link kahan open hoga (_blank, _self)
+- title = Mouse hover par tooltip dikhata hai
+- Students ko website navigation ka basic samajh aata hai

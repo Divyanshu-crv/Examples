@@ -1,0 +1,13 @@
+CyberRootVidyapeeth
+
+Question 23.2:
+Ek aur webpage banao jisme:
+1) Anchor tag use ho
+2) href aur title attribute use ho
+3) Page ke andar kisi jagah jump karne ke liye name attribute use ho
+4) Text Hinglish me ho
+
+Solution:
+- name = Page ke andar kisi particular jagah ko target banata hai
+- href="#name" se direct usi jagah jump hota hai
+- Students ko internal linking ka concept samajh aata hai
