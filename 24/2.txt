@@ -1,0 +1,8 @@
+CyberRootVidyapeeth
+
+Question 24.2:
+Ek webpage banao jisme:
+1) Multiple Hyperlinks ho
+2) class attribute use ho
+3) Sirf INLINE CSS ka use ho
+4) External aur Internal CSS bilkul use na ho

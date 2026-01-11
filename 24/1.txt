@@ -1,0 +1,13 @@
+CyberRootVidyapeeth
+
+Question 24.1:
+Ek webpage banao jisme:
+1) Hyperlink (<a>) ka use ho
+2) id attribute use ho
+3) Sirf INLINE CSS ka use ho
+4) External aur Internal CSS use NAHI karna hai
+
+Use:
+- <a> hyperlink banata hai
+- id ek unique identity hoti hai
+- Inline CSS = style attribute ke andar likhi jaati hai
