@@ -1,0 +1,9 @@
+CyberRootVidyapeeth
+
+Question:
+Marquee tag ka use karke:
+1) Simple marquee banao
+2) Background color ke saath marquee banao
+3) Height aur Width ke saath marquee banao
+4) Direction: Left, Right, Up ka use karo
+5) Slow aur Fast speed ka example banao (scrolldelay, scrollamount)

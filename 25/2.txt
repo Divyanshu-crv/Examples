@@ -1,0 +1,9 @@
+CyberRootVidyapeeth
+
+Question:
+Marquee tag ka use karke:
+1) Scroll behavior ka example banao
+2) Slide behavior ka example banao
+3) Alternate behavior ka example banao
+4) Loop attribute ka use karo
+5) Direction + bgcolor + speed ko ek saath use karo
