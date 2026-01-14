@@ -1,0 +1,9 @@
+CyberRootVidyapeeth
+
+Question:
+Iframe ka use karke:
+1) name attribute ka use karo
+2) Scrolling = auto ka example banao
+3) Scrolling = yes ka example banao
+4) Scrolling = no ka example banao
+5) Sare attributes ko ek saath use karo

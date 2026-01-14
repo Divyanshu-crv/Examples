@@ -1,0 +1,9 @@
+CyberRootVidyapeeth
+
+Question:
+Iframe ka use karke:
+1) Ek simple iframe banao
+2) Iframe me height aur width set karo
+3) id attribute use karo
+4) frameborder ka use karo
+5) src attribute ka use karo
