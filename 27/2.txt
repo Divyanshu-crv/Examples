@@ -1,0 +1,8 @@
+CyberRootVidyapeeth
+
+Question:
+HR tag ka use karke:
+1) Left align HR banao
+2) Right align HR banao
+3) Noshade attribute ka use karo
+4) Sare attributes ko ek saath use karo

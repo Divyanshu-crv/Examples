@@ -1,0 +1,10 @@
+CyberRootVidyapeeth
+
+Question:
+HR tag ka use karke:
+1) Simple horizontal line banao
+2) Width ke saath HR banao
+3) Size aur color ke saath HR banao
+
+Note:
+HR tag line (horizontal rule) banane ke liye use hota hai.
