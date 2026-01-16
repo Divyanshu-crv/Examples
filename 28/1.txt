@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question:
+Table tag ka use karke:
+1) Ek simple table banao
+2) border attribute ka use karo
+3) cellpadding ka use karo
+4) cellspacing ka use karo
+
+Note:
+Table data ko row aur column me dikhane ke liye use hota hai.
+<tr> = table row
+<th> = table heading
+<td> = table data

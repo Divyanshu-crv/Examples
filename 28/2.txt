@@ -1,0 +1,8 @@
+CyberRootVidyapeeth
+
+Question:
+Table tag ka use karke:
+1) Background color ke saath table banao
+2) Align attribute ka use karo
+3) Colspan ka example banao
+4) Rowspan ka example banao
