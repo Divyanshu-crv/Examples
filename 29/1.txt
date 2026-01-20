@@ -1,0 +1,13 @@
+CyberRootVidyapeeth
+
+Question:
+Table tag ka use karke:
+1) Align attribute ka use karo (center)
+2) Border lagao
+3) Border ka color set karo
+4) Height aur Width set karo
+5) Title attribute ka use karo (hover par show ho)
+
+Note:
+align = table ko left / center / right me set karta hai
+title = mouse le jaane par text dikhata hai

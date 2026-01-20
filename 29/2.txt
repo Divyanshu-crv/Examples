@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question:
+Table tag ka use karke:
+1) Bgcolor attribute ka use karo
+2) Background image ka use karo
+3) Cellpadding ka use karo
+4) Cellspacing ka use karo
+
+Note:
+bgcolor = table ka background color
+background = image ko background banata hai
+cellpadding = cell ke andar space
+cellspacing = cells ke beech ka space
