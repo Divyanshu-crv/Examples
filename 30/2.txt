@@ -1,0 +1,8 @@
+CyberRootVidyapeeth
+
+Question:
+Audio tag ka use karke:
+1) Simple audio play karvao
+2) Controls attribute ka use karo
+3) Autoplay ka example banao
+4) Loop ka example banao

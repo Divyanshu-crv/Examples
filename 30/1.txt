@@ -1,0 +1,9 @@
+CyberRootVidyapeeth
+
+Question:
+Video tag ka use karke:
+1) Simple video play karvao
+2) Height aur Width set karo
+3) Controls attribute ka use karo
+4) Autoplay ka example banao
+5) Loop ka example banao
