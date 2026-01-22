@@ -1,0 +1,8 @@
+CyberRootVidyapeeth
+
+Question:
+TR, TH aur TD tag ka use karke:
+1) TR me align ka use karo
+2) TR me bgcolor ka use karo
+3) TR me height aur width ka use karo
+4) TH aur TD me align, bgcolor, height, width ka use karo

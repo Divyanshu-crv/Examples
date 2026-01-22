@@ -1,0 +1,7 @@
+CyberRootVidyapeeth
+
+Question:
+TR, TH aur TD tag ka use karke:
+1) Colspan ka example banao
+2) Rowspan ka example banao
+3) Align, bgcolor, height, width ka mixed use karo
