@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>File Upload Practice</title>
+</head>
+<body>
+
+	<h1>CyberRootVidyapeeth - File Upload Practice Form</h1>
+
+	<!-- ================= BASIC FILE UPLOAD ================= -->
+	<h2>1. Simple File Upload</h2>
+
+	<form>
+		Select Any File:
+		<input type="file">  <!-- file = computer se koi bhi file select -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= IMAGE UPLOAD ================= -->
+	<h2>2. Image Upload (Photo)</h2>
+
+	<form>
+		Upload Your Photo:
+		<input type="file" accept="image/*">  
+		<!-- accept="image/*" = sirf image select hogi -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= VIDEO UPLOAD ================= -->
+	<h2>3. Video Upload</h2>
+
+	<form>
+		Upload Your Video:
+		<input type="file" accept="video/*">
+		<!-- accept="video/*" = sirf video select hogi -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= AUDIO UPLOAD ================= -->
+	<h2>4. Audio Upload</h2>
+
+	<form>
+		Upload Audio File:
+		<input type="file" accept="audio/*">
+		<!-- accept="audio/*" = sirf audio select hogi -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= MULTIPLE FILE UPLOAD ================= -->
+	<h2>5. Multiple Files Upload</h2>
+
+	<form>
+		Select Multiple Files:
+		<input type="file" multiple>
+		<!-- multiple = ek se jyada file select -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= CYBERROOTVIDYAPEETH STUDENT UPLOAD FORM ================= -->
+	<h2>6. CyberRootVidyapeeth Student Upload Form</h2>
+
+	<form>
+
+		Student Name:
+		<input type="text">
+		<br><br>
+
+		Upload Photo:
+		<input type="file" accept="image/*">
+		<br><br>
+
+		Upload ID Proof:
+		<input type="file">
+		<br><br>
+
+		Upload Intro Video:
+		<input type="file" accept="video/*">
+		<br><br>
+
+		<input type="submit" value="Upload All Files">
+
+	</form>
+
+</body>
+</html>

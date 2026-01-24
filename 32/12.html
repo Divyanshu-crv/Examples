@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Validation Practice</title>
+</head>
+<body>
+
+	<h1>CyberRootVidyapeeth - Form Validation Practice</h1>
+
+	<!-- ================================================= -->
+	<!-- 1. REQUIRED ATTRIBUTE -->
+	<h2>1. Required Attribute</h2>
+
+	<form>
+		Name:
+		<input type="text" required>  
+		<!-- required = bina bhare submit nahi hoga -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 2. PLACEHOLDER -->
+	<h2>2. Placeholder Attribute</h2>
+
+	<form>
+		Email:
+		<input type="email" placeholder="Enter your email">
+		<!-- placeholder = input ke andar hint -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 3. MAXLENGTH -->
+	<h2>3. Maxlength Attribute</h2>
+
+	<form>
+		Mobile Number:
+		<input type="text" maxlength="10">
+		<!-- maxlength = maximum characters limit -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 4. MIN & MAX -->
+	<h2>4. Min and Max Attribute</h2>
+
+	<form>
+		Age:
+		<input type="number" min="10" max="30">
+		<!-- min = minimum value, max = maximum value -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 5. READONLY -->
+	<h2>5. Readonly Attribute</h2>
+
+	<form>
+		Country:
+		<input type="text" value="India" readonly>
+		<!-- readonly = value change nahi hogi -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 6. DISABLED -->
+	<h2>6. Disabled Attribute</h2>
+
+	<form>
+		Username:
+		<input type="text" disabled>
+		<!-- disabled = input disable ho jata hai -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 7. PATTERN -->
+	<h2>7. Pattern Attribute</h2>
+
+	<form>
+		Enter 10 Digit Mobile:
+		<input type="text" pattern="[0-9]{10}">
+		<!-- pattern = special format follow karega -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 8. AUTOCOMPLETE -->
+	<h2>8. Autocomplete Attribute</h2>
+
+	<form autocomplete="on">
+		Name:
+		<input type="text">
+		<!-- autocomplete = browser data suggest kare -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 9. AUTOFOCUS -->
+	<h2>9. Autofocus Attribute</h2>
+
+	<form>
+		First Name:
+		<input type="text" autofocus>
+		<!-- autofocus = page load par cursor yahin aayega -->
+		<br><br>
+		Last Name:
+		<input type="text">
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 10. STEP -->
+	<h2>10. Step Attribute</h2>
+
+	<form>
+		Select Number:
+		<input type="number" step="5">
+		<!-- step = kitna gap se value badhe -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 11. MULTIPLE -->
+	<h2>11. Multiple Attribute (File Upload)</h2>
+
+	<form>
+		Select Files:
+		<input type="file" multiple>
+		<!-- multiple = ek se jyada file -->
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================================================= -->
+	<!-- 12. CYBERROOTVIDYAPEETH VALIDATION FORM -->
+	<h2>12. CyberRootVidyapeeth Admission Validation Form</h2>
+
+	<form>
+
+		Name:
+		<input type="text" required placeholder="Enter Name">
+		<br><br>
+
+		Mobile:
+		<input type="text" pattern="[0-9]{10}" maxlength="10" required>
+		<br><br>
+
+		Email:
+		<input type="email" required>
+		<br><br>
+
+		Password:
+		<input type="password" minlength="6" required>
+		<br><br>
+
+		Age:
+		<input type="number" min="10" max="40" required>
+		<br><br>
+
+		Country:
+		<input type="text" value="India" readonly>
+		<br><br>
+
+		Upload Photo:
+		<input type="file" accept="image/*" required>
+		<br><br>
+
+		<input type="submit" value="Submit Admission">
+		<input type="reset">
+
+	</form>
+
+</body>
+</html>

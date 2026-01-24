@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Complete Form - CyberRootVidyapeeth</title>
+</head>
+<body>
+
+	<h1>CyberRootVidyapeeth - Complete Form Practice</h1>
+
+	<!-- ================= BASIC FORM ================= -->
+	<h2>1. Basic Form</h2>
+
+	<form>
+		Name: <input type="text">  <!-- text input -->
+	</form>
+
+	<hr>
+
+	<!-- ================= FORM + ACTION + METHOD ================= -->
+	<h2>2. Form with Action and Method</h2>
+
+	<form action="success.html" method="get">
+		Username: <input type="text">
+		<br><br>
+		<input type="submit"> <!-- submit button -->
+	</form>
+
+	<hr>
+
+	<!-- ================= LABEL, REQUIRED, PLACEHOLDER ================= -->
+	<h2>3. Label, Required, Placeholder</h2>
+
+	<form>
+		<label>Full Name:</label>
+		<input type="text" required placeholder="Enter your name">
+		<br><br>
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= RADIO & CHECKBOX ================= -->
+	<h2>4. Radio & Checkbox</h2>
+
+	<form>
+		Gender:
+		<input type="radio" name="g"> Male   <!-- radio button -->
+		<input type="radio" name="g"> Female
+
+		<br><br>
+
+		Hobby:
+		<input type="checkbox"> Reading   <!-- checkbox -->
+		<input type="checkbox"> Coding
+
+		<br><br>
+
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= SELECT & OPTION ================= -->
+	<h2>5. Select & Option</h2>
+
+	<form>
+		Choose Course:
+		<select>  <!-- dropdown -->
+			<option>HTML</option>
+			<option>CSS</option>
+			<option>JavaScript</option>
+		</select>
+
+		<br><br>
+
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= TEXTAREA ================= -->
+	<h2>6. Textarea</h2>
+
+	<form>
+		Message:
+		<br>
+		<textarea rows="5" cols="30"></textarea>  <!-- multiline text -->
+
+		<br><br>
+
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= DIFFERENT INPUT TYPES ================= -->
+	<h2>7. Different Input Types</h2>
+
+	<form>
+		Email: <input type="email">   <!-- email -->
+		<br><br>
+
+		Password: <input type="password">   <!-- password -->
+		<br><br>
+
+		Date: <input type="date">   <!-- date -->
+		<br><br>
+
+		File Upload: <input type="file">   <!-- file -->
+		<br><br>
+
+		Range: <input type="range">   <!-- range slider -->
+		<br><br>
+
+		Color: <input type="color">   <!-- color picker -->
+		<br><br>
+
+		<input type="submit">
+	</form>
+
+	<hr>
+
+	<!-- ================= FORM BUTTONS ================= -->
+	<h2>8. Form Buttons</h2>
+
+	<form>
+		<input type="text">
+
+		<br><br>
+
+		<input type="submit">   <!-- submit -->
+		<input type="reset">    <!-- reset -->
+		<input type="button" value="Click Me">  <!-- button -->
+	</form>
+
+	<hr>
+
+	<!-- ================= COMPLETE CYBERROOTVIDYAPEETH FORM ================= -->
+	<h2>9. CyberRootVidyapeeth Admission Form</h2>
+
+	<form action="admission.html" method="post">
+
+		<!-- Name -->
+		Name:
+		<input type="text" required placeholder="Enter your name">
+		<br><br>
+
+		<!-- Mobile -->
+		Mobile:
+		<input type="number" required placeholder="Enter mobile number">
+		<br><br>
+
+		<!-- Email -->
+		Email:
+		<input type="email" required>
+		<br><br>
+
+		<!-- Password -->
+		Password:
+		<input type="password" required>
+		<br><br>
+
+		<!-- Gender -->
+		Gender:
+		<input type="radio" name="gender"> Male
+		<input type="radio" name="gender"> Female
+		<br><br>
+
+		<!-- Course -->
+		Select Course:
+		<select>
+			<option>Web Development</option>
+			<option>Python Programming</option>
+			<option>C Programming</option>
+			<option>Java</option>
+		</select>
+		<br><br>
+
+		<!-- Hobby -->
+		Hobby:
+		<input type="checkbox"> Coding
+		<input type="checkbox"> Designing
+		<input type="checkbox"> Gaming
+		<br><br>
+
+		<!-- Address -->
+		Address:
+		<br>
+		<textarea rows="4" cols="30"></textarea>
+		<br><br>
+
+		<!-- Date -->
+		Date of Joining:
+		<input type="date">
+		<br><br>
+
+		<!-- Upload -->
+		Upload Photo:
+		<input type="file">
+		<br><br>
+
+		<!-- Buttons -->
+		<input type="submit" value="Submit Form">
+		<input type="reset" value="Clear Form">
+
+	</form>
+
+</body>
+</html>
