@@ -1,0 +1,3 @@
+2) URL input ka example banao jisme:
+   - required attribute ho
+   - placeholder use ho

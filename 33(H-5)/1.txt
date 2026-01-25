@@ -1,0 +1,14 @@
+CyberRootVidyapeeth
+
+Question
+HTML5 ke advanced form input types ka use karke:
+
+1) Email input ka example banao jisme:
+   - required attribute ho
+   - placeholder use ho
+
+
+Solution:
+Is question me hum HTML5 ke naye input types (email, url) ka use karenge.
+Isme required attribute se field mandatory hogi.
+Placeholder attribute se input ke andar hint show hoga.
