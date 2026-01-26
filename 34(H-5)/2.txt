@@ -1,0 +1,18 @@
+CyberRootVidyapeeth
+
+Question No. 2 (HTML5 Semantic Tags):
+
+HTML5 ke advanced semantic tags ka use karke ek webpage banao jisme:
+- article
+- aside
+- main
+- footer
+
+ka use ho.
+
+Solution:
+Is question me hum advanced semantic tags ka use kar rahe hain.
+Article independent content ke liye hota hai.
+Aside side content ke liye hota hai.
+Main poore main content ke liye hota hai.
+Footer niche ke part ke liye hota hai.

@@ -1,0 +1,18 @@
+CyberRootVidyapeeth
+
+Question No. 1 (HTML5 Semantic Tags):
+
+HTML5 ke basic semantic tags ka use karke ek simple webpage banao jisme:
+- header
+- nav
+- section
+- footer
+
+ka use ho.
+
+Solution:
+Is question me hum HTML5 ke basic semantic tags ka use kar rahe hain.
+Header website ka upar ka hissa hota hai.
+Nav navigation ke liye hota hai.
+Section content ke liye hota hai.
+Footer website ke niche ka part hota hai.
