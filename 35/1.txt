@@ -1,0 +1,71 @@
+CyberRootVidyapeeth
+
+Topic: HTML5 Semantic Tags (All In One Notes)
+
+1. <header> Tag:
+
+Header tag website ke top part ke liye hota hai.
+Isme generally logo, website ka naam, heading wagairah hoti hai.
+
+2. <nav> Tag:
+
+Nav tag navigation ke liye hota hai.
+Isme menu links jaise Home, About, Courses, Contact hote hain.
+
+3. <main> Tag:
+
+Main tag webpage ke main content ko show karta hai.
+Website ka sabse important content isi ke andar hota hai.
+
+4. <section> Tag:
+
+Section tag content ko parts me divide karta hai.
+Jaise courses ka section, about ka section, etc.
+
+5. <article> Tag:
+
+Article tag independent content ke liye use hota hai.
+Jaise blog post, news article, course detail, etc.
+
+6. <aside> Tag:
+
+Aside tag side content ke liye hota hai.
+Jaise notice, ads, extra information.
+
+7. <footer> Tag:
+
+Footer tag webpage ke bottom ke liye hota hai.
+Isme copyright, address, contact info hoti hai.
+
+8. <mark> Tag:
+   Mark tag text ko highlight karne ke liye use hota hai.
+   Jaise kisi important word ko yellow highlight karna.
+
+9. <details> Tag:
+
+Details tag hide/show content ke liye hota hai.
+User jab click karta hai tab andar ka content show hota hai.
+
+10. <summary> Tag:
+
+Summary tag, details tag ka heading hota hai.
+Is par click karke details open hota hai.
+
+11. <figure> Tag:
+
+Figure tag image, diagram, media ko group karne ke liye hota hai.
+
+12. <figcaption> Tag:
+
+Figcaption tag image ka caption likhne ke liye hota hai.
+Ye figure tag ke andar hota hai.
+
+13. <abbr> Tag:
+    Abbr tag short form ka full form dikhane ke liye hota hai.
+    Mouse hover karne par full form show hota hai.
+
+14. <progress> Tag:
+    Progress tag progress bar dikhane ke liye hota hai.
+    Jaise student ka course kitna complete hua.
+
+
